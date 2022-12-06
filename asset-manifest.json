@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://vais2004.github.io/csb-eg3r32/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vais2004.github.io/csb-eg3r32/static/js/main.f2e2c9e0.chunk.js",
+    "main.js.map": "https://vais2004.github.io/csb-eg3r32/static/js/main.f2e2c9e0.chunk.js.map",
+    "runtime-main.js": "https://vais2004.github.io/csb-eg3r32/static/js/runtime-main.da7bf86a.js",
+    "runtime-main.js.map": "https://vais2004.github.io/csb-eg3r32/static/js/runtime-main.da7bf86a.js.map",
+    "index.html": "https://vais2004.github.io/csb-eg3r32/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vais2004.github.io/csb-eg3r32/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/main.f2e2c9e0.chunk.js.LICENSE.txt": "https://vais2004.github.io/csb-eg3r32/static/js/main.f2e2c9e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da7bf86a.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f2e2c9e0.chunk.js"
+  ]
+}
